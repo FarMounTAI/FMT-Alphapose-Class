@@ -1,4 +1,4 @@
-# FMT-Alphapose-class
+# FMT-Alphapose-Class
 hongyaohongyao大佬的智慧教室  
 https://github.com/hongyaohongyao/smart_classroom_demo  
 让我第一次接触到深度学习  
