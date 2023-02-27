@@ -21,6 +21,7 @@ https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
 
 警告：  
 如果使用英伟达GPU进行运行实时监测，由于CUDAtoolkit的缘故，请确保有15G以上的存储空间。如果进行视频图片的导入，请确保您的GPU至少有6G的独立显存  
+视频根据Alphapose的官方文档，使用OpenCV，但是opencv不支持H264和H265的编码，由于我用不到就没配置
 CPU运行会很慢，非常慢，没有英伟达独立显卡的用户请确保您的CPU有足够的的算力（第十代移动版酷睿i7勉强能跑起来，锐龙没有试过），并且拥有至少8GB的运行内存
 
 关于如何使用，请转至官方文档  
