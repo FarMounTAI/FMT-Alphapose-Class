@@ -17,7 +17,7 @@ https://github.com/Fang-Haoshu/Halpe-FullBody
 更多数据集  
 https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
 
-请将文件放置到C盘的根目录，以便操作，可手动更改脚本中的内容 
+请将文件放置到C盘的根目录，以便操作，如果想要改到其他位置，可手动更改脚本中的地址
 
 警告：  
 如果使用英伟达GPU进行运行实时监测，由于CUDAtoolkit的缘故，请确保有15G以上的存储空间。如果进行视频图片的导入，请确保您的GPU至少有6G的独立显存  
