@@ -1,0 +1,1 @@
+conda remove -n Alphapose --all&conda remove -n AlphaposeGPU --all&conda remove -n AlphaposeCPU --all
