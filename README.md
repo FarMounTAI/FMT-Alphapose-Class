@@ -12,9 +12,9 @@ Alphapose 项目地址https://github.com/MVIG-SJTU/AlphaPose
 完整版Anaconda https://www.anaconda.com/  
 清华镜像https://repo.anaconda.com/archive/  
 
-默认使用halpe136_fast_res50_256x192.pth数据集  
+默认使用halpe136_fast_res50_256x192.pth数据集，config已经在放在同文件夹了  
 https://github.com/Fang-Haoshu/Halpe-FullBody  
-更多数据集  
+更多数据集，注意要放置config文件，config文件夹中已经附带了  
 https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
 
 请将文件放置到C盘的根目录，以便操作，如果想要改到其他位置，可手动更改脚本中的地址
