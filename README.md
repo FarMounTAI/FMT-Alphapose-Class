@@ -29,12 +29,12 @@ https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/GETTING_STARTED.md
 
 ## 🔗 Onedrive
 https://jixuaa-my.sharepoint.com/:f:/g/personal/farmountai_jixuaa_onmicrosoft_com/Ekc7MtyLpNNAtOSEgceCAWsBzA1KGqOs4jMnYwU8KKrvXw?e=rat8Mc  
-将内部的文件放置到Alphapose-master下
+下载里面的文件夹，并将内部的文件放置到Alphapose-master下
 
 
 
 
 ## 参考项目
-https://github.com/cs-giung/face-detection-pytorch
-https://github.com/MVIG-SJTU/AlphaPose
+https://github.com/cs-giung/face-detection-pytorch  
+https://github.com/MVIG-SJTU/AlphaPose  
 https://github.com/yinguobing/head-pose-estimation
