@@ -1,0 +1,1 @@
+conda activate&conda create -n AlphaposeGPU python=3.10.9 -y&conda activate AlphaposeGPU&pip install pytest-runner pytest cmake setuptools pyyaml numpy scipy pillow&conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia &conda install cudatoolkit cudnn git matplotlib&cd "C:\FMT\AlphaPose-master"&python GPU.py build develop --user

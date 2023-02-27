@@ -1,0 +1,1 @@
+conda activate&conda create -n AlphaposeCPU python=3.10.9 -y&conda activate AlphaposeCPU&pip install pytest-runner pytest cmake pyyaml setuptools numpy scipy pillow&conda install pytorch torchvision torchaudio cpuonly -c pytorch&conda install git matplotlib&cd "C:\FMT\AlphaPose-master"&python CPU.py build develop --user
