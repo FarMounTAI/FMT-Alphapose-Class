@@ -5,7 +5,7 @@ https://github.com/hongyaohongyao/smart_classroom
 但是这两年hongyao大佬并没有对这个项目进行过更新，而且新版Alphapose的性能也有所提升，40系显卡也开始上市售卖。并不能满足现阶段的使用需求  
 所以基于最新版Alphapose的课堂行为检测工具——FMT-Alphapose-class诞生了  
 Alphapose 项目地址https://github.com/MVIG-SJTU/AlphaPose  
-由于在刚开始学习的时候吃尽了苦头，所以我为广大想使用该项目的初学者提供保姆级环境配置方案，免去长时间配置的烦恼，后续会提供简单的图形用户界面，适配希沃、鸿合、创维的高分辨率屏幕，方便喜欢计算机的老师们使用。
+由于在刚开始学习的时候吃尽了苦头，所以我为广大想使用该项目的初学者提供保姆级环境配置方案，免去长时间配置的烦恼，后续会提供简单的图形用户界面，适配希沃、鸿合、创维的高分辨率屏幕（据我所知，希沃的6代机是十代酷睿i5起配的，由于11代酷睿后，英特尔的CPU大改，2023年的机器如果上11代酷睿及以后的处理器，OnlyCPU跑应该也可以跑出效果来），方便喜欢计算机的老师们使用。
 
 推荐使用Miniconda  
 官网https://docs.conda.io/en/latest/miniconda.html  
