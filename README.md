@@ -1,6 +1,6 @@
 # FMT-Alphapose-Class
 hongyaohongyao大佬的智慧教室  
-https://github.com/hongyaohongyao/smart_classroom_demo  
+https://github.com/hongyaohongyao/smart_classroom  
 让我第一次接触到深度学习  
 但是这两年hongyao大佬并没有对这个项目进行过更新，而且新版Alphapose的性能也有所提升，40系显卡也开始上市售卖。并不能满足现阶段的使用需求  
 所以基于最新版Alphapose的课堂行为检测工具——FMT-Alphapose-class诞生了  
