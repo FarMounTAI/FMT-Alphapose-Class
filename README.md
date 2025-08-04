@@ -1,11 +1,13 @@
+本项目仅为早起练手项目，请注意时效性（2025年8月）
+
 # FMT-Alphapose-Class
 hongyaohongyao大佬的智慧教室  
 https://github.com/hongyaohongyao/smart_classroom  
 让我第一次接触到深度学习  
-但是这两年hongyao大佬并没有对这个项目进行过更新，而且新版Alphapose的性能也有所提升，40系显卡也开始上市售卖。并不能满足现阶段的使用需求  
+但2022年以后，hongyao大佬并没有对这个项目进行过更新。新版Alphapose的性能已有所提升，40系显卡也开始上市售卖。依托老版本的组件并不能满足现阶段的使用需求  
 所以基于最新版Alphapose的课堂行为检测工具——FMT-Alphapose-class诞生了  
 Alphapose 项目地址https://github.com/MVIG-SJTU/AlphaPose  
-由于在刚开始学习的时候吃尽了苦头，所以我为广大想使用该项目的初学者提供保姆级环境配置方案，免去长时间配置的烦恼，后续会提供简单的图形用户界面，适配希沃、鸿合、创维的高分辨率屏幕（据我所知，希沃的6代机是十代酷睿i5起配的，由于11代酷睿后，英特尔的CPU大改，2023年的机器如果上11代酷睿及以后的处理器，OnlyCPU跑应该也可以跑出效果来），方便喜欢计算机的老师们使用。
+由于在刚开始学习的时候吃尽了苦头，所以我为广大想使用该项目的初学者提供保姆级环境配置方案，免去长时间配置的烦恼，后续会提供简单的图形用户界面（也许永远不会有）
 
 推荐使用Miniconda  
 官网https://docs.conda.io/en/latest/miniconda.html  
@@ -19,10 +21,10 @@ https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
 
 请将文件放置到C盘的根目录，以便操作，如果想要改到其他位置，可手动更改脚本中的地址
 
-警告：  
+注意事项：  
 如果使用英伟达GPU进行运行实时监测，由于CUDAtoolkit的缘故，请确保有15G以上的存储空间。如果进行视频图片的导入，请确保您的GPU至少有6G的独立显存  
 视频根据Alphapose的官方文档，使用OpenCV，但是opencv不支持H264和H265的编码，由于我用不到就没配置
-CPU运行会很慢，非常慢，没有英伟达独立显卡的用户请确保您的CPU有足够的的算力（第十代移动版酷睿i7勉强能跑起来，锐龙没有试过），并且拥有至少8GB的运行内存
+CPU运行效率极低，没有英伟达独立显卡的用户请确保您的CPU有足够的算力，并保证拥有8G以上的运存
 
 关于如何使用，请转至官方文档  
 https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/GETTING_STARTED.md  
@@ -37,5 +39,5 @@ https://jixuaa-my.sharepoint.com/:f:/g/personal/farmountai_jixuaa_onmicrosoft_co
 
 ## 参考项目
 https://github.com/cs-giung/face-detection-pytorch  
-https://github.com/MVIG-SJTU/AlphaPose  
+https://github.com/MVIG-SJTU/AlphaPose
 https://github.com/yinguobing/head-pose-estimation
